@@ -2,7 +2,7 @@
 
 - **Módulo:** Lenguaje de Marcas y Sistemas de Gestión de Información (1.º DAM)
 - **Tema:** UD3 - Estructura de un documento HTML5 y bloques de contenido
-- **Autores / Equipo de Desarrollo:** Fila 2 (David Cuco, Maximiliano Abilahoud, Adrián Durán, Álvaro Gil, Raúl Antonio Carrasco, Francisco Martínez, Alberto Florido, David Uzón)
+- **Autores / Equipo de Desarrollo:** Fila 2 (David Cuco, Maximiliano Abilahoud, Adrián Durán, Álvaro Gil y Raúl Antonio Carrasco.)
 - **Sala asignada:** Sala 2 - Radio Fantasma (Mesa 2)
 
 ---
